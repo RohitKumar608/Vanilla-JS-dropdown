@@ -1,3 +1,7 @@
 # Vanila-JS-dropdown
 
-A dropdown list's position, whether at the top or bottom of a document, is typically determined by various factors such as the available height, container element position from the top, and client height of the dropdown.
+Show dropdown list position (Up/Bottom) based on document height
+
+For more details please read the medium blog link provided below
+
+[https://medium.com/@rohitkumarrk13568/show-dropdown-list-position-up-bottom-based-on-document-height-ae4978eb9f1c]
